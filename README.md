@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD010 -->
+
 # markdown-rs
 
 Simple [markdown-rs](https://github.com/wooorm/markdown-rs) wrapper for lune runtime, with ffi edge feature.
